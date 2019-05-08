@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FrameLayout_engineering_calc</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="_x">X</string>
+    <string name="minus">-</string>
+    <string name="div">/</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="c">C</string>
+    <string name="sign">+/-</string>
+    <string name="percent">%</string>
+    <string name="title">Калькулятор</string>
+    <string name="decimal_point">.</string>
+    <string name="engineering_calc_btn">Инженерный/простой калькулятор</string>
+    <string name="square_root">\u221A</string>
+    <string name="pi">\uD835\uDF0B</string>
+    <string name="opening_bracket">(</string>
+    <string name="closing_bracket">)</string>
+    <string name="exponent">e</string>
+</resources>
